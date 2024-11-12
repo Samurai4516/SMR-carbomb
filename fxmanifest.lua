@@ -8,7 +8,7 @@ author 'Samurai'
 
 
 client_scripts {
-    'client/opensource.lua',
+    'client/targets.lua',
     'client/functions.lua',
 	'client/client.lua',
 }
